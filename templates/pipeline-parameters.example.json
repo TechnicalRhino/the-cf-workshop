@@ -14,11 +14,9 @@
   {
     "ParameterKey": "PublicSubnetOneId",
     "ParameterValue": "subnet-56e3363f"
-    // replace with a public subnet Id from one AZ
   },
   {
     "ParameterKey": "PublicSubnetTwoId",
-    "ParameterValue": "TO-BE-REPLACED"
-    // replace with a public subnet Id from a different AZ
+    "ParameterValue": "subnet-56e3363f"
   }
 ]
