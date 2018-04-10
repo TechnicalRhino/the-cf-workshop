@@ -1,0 +1,14 @@
+[
+  {
+    "ParameterKey": "RepositoryName",
+    "ParameterValue": "the-cf-workshop"
+  },
+  {
+    "ParameterKey": "RepositoryOwner",
+    "ParameterValue": "TechnicalRhino"
+  },
+  {
+    "ParameterKey": "GithubAccessToken",
+    "ParameterValue": "eb405dc876ed07d187042db9a6363dcf7af67d56"
+  }
+]
